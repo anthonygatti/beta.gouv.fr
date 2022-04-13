@@ -1,6 +1,6 @@
 ---
 fullname: Anthony Gatti
-role: Chargé de déploiement
+role: Chef produit
 domaine: Déploiement
 missions:
   - start: 2022-04-11
@@ -8,6 +8,7 @@ missions:
     status: independent
 startups:
   - le-taxi
+  - Mes-autorisations-de stationnement
 badges:
   - segur
 ---

@@ -8,6 +8,7 @@ missions:
     status: independent
 startups:
   - le-taxi
+  - Mes-autorisations-de-stationnement
 badges:
   - segur
 ---
